@@ -1,6 +1,6 @@
-const fibonacci = function() {
+// fibonacci sequense = 1, 1, 2, 3, 5, 8, 13, 21 ....
 
-};
+const fibonacci = function (num) {};
 
 // Do not edit below this line
 module.exports = fibonacci;
